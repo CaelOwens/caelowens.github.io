@@ -1,0 +1,82 @@
+#container{
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 12px;
+    color: #03a062;
+    width: 900px;
+}
+header{
+    background-image: url(Images/greencode.jpg);
+    width: 1520px;
+    height: 220px;
+    color: #03a062;
+}
+#special{
+}
+Nav{
+height: 20px ;
+color: #03a062;
+padding: 5px;
+}
+footer{
+    background-repeat: no-repeat;
+    height: 25px;
+    width: 870px;
+    color: #03a062;
+    padding: 15px;
+}
+h1{
+font-size: 18px;
+}
+h2{
+font-size: 16px;
+
+}
+h3{
+font-size: 14px;
+
+}
+html{
+    background-color: black;
+    background-repeat: repeat-x;
+   
+}
+#content{
+    
+    width: 880px;
+    padding: 10px;
+}
+.Links{
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+    padding-right: 20px;
+    display: flex;
+}
+a:link{
+    text-decoration: none;
+    color: #03a062;
+}
+.Links a:hover{
+    background-color: #03a062;
+    color: white;
+    box-shadow: 0px 0px 4px 2px #03a062;
+}
+footer a:hover{
+    background-color: #03a062;
+    color: white;
+    box-shadow: 0px 0px 4px 2px #03a062;
+ }
+.FooterLink{
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+    padding-right: 15px;
+    display: flex;
+}
+#Home, #Skills, #Resume, #CareerGoals, #CompletedProjects{
+    padding-right: 50px;
+    margin: 15px;
+ }
+ a:visited{
+    color: #03a062;
+ }
